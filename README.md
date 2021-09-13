@@ -124,7 +124,7 @@ Miscellaneous :
 
 ## Contributing Team Members:
 
-|Name     |  Email   | 
+|Name     |  
 
-|Sarvesh Yadav(https://github.com/saif-raja) |     skyttsearch@gmail.com    |
+|Sarvesh Kumar Yadav |
 
